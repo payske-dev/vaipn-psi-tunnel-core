@@ -63,7 +63,7 @@ fi
 
 cd build-tmp
 
-jar uf psi/classes.jar ca/psiphon/*.class
+jar uf psi/classes.jar ca/vaipnpsi/*.class
 if [ $? != 0 ]; then
   echo "..'jar' failed to add classes, exiting"
   exit $?
