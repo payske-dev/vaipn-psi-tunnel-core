@@ -1,0 +1,21 @@
+PODS:
+  - VaipnTunnel (2.0.2)
+
+DEPENDENCIES:
+  - VaipnTunnel (from `https://github.com/payske-dev/vaipn-psi-tunnel-core-iOS-library.git`)
+
+EXTERNAL SOURCES:
+  VaipnTunnel:
+    :git: https://github.com/payske-dev/vaipn-psi-tunnel-core-iOS-library.git
+
+CHECKOUT OPTIONS:
+  VaipnTunnel:
+    :commit: c9af3bab93637163e117de9d1e77435baa7646c0
+    :git: https://github.com/payske-dev/vaipn-psi-tunnel-core-iOS-library.git
+
+SPEC CHECKSUMS:
+  VaipnTunnel: 0c3f8677e4b26316beba57df78ed9c75634ce091
+
+PODFILE CHECKSUM: 0bbc24846192b5e68f4c4fc131b11c9fe5aed081
+
+COCOAPODS: 1.15.2

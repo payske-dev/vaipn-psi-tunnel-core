@@ -1,0 +1,6 @@
+platform :ios, '10.0'
+
+target 'TunneledWebRequest' do
+    pod 'VaipnTunnel', :git => 'https://github.com/payske-dev/vaipn-psi-tunnel-core-iOS-library.git'
+end
+
