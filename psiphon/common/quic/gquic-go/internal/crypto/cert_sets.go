@@ -2,6 +2,9 @@ package crypto
 
 import (
 	"bytes"
+
+	"github.com/Psiphon-Labs/psiphon-tunnel-core/psiphon/common/quic/gquic-go/quic-go-certificates"
+
 )
 
 type certSet [][]byte
