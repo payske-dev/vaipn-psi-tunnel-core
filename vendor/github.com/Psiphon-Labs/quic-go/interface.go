@@ -8,7 +8,7 @@ import (
 	"time"
 
 	tls "github.com/Psiphon-Labs/psiphon-tls"
-	"github.com/Psiphon-Labs/psiphon-tunnel-core/psiphon/common/prng"
+	"github.com/payske-dev/vaipn-psi-tunnel-core/psiphon/common/prng"
 
 	"github.com/Psiphon-Labs/quic-go/internal/handshake"
 	"github.com/Psiphon-Labs/quic-go/internal/protocol"
