@@ -16,7 +16,7 @@ import (
 	"io"
 	"time"
 
-	"github.com/payske-dev/vaipn-psi-tunnel-core/psiphon/common/prng"
+	"github.com/Psiphon-Labs/psiphon-tunnel-core/psiphon/common/prng"
 )
 
 // maxClientPSKIdentities is the number of client PSK identities the server will
