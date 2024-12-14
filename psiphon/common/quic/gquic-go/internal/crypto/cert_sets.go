@@ -3,7 +3,7 @@ package crypto
 import (
 	"bytes"
 
-	"github.com/Psiphon-Labs/psiphon-tunnel-core/psiphon/common/quic/gquic-go/quic-go-certificates"
+	"github.com/payske-dev/vaipn-psi-tunnel-core/psiphon/common/quic/gquic-go/quic-go-certificates"
 
 )
 
